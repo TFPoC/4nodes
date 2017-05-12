@@ -1,0 +1,43 @@
+Fatal: Error starting protocol stack: bad bootstrap/fallback node "enode://a5791501ea72489d31f53bcce00a7f5ba18bd5540977cd3664e803d1e68cbba7b3608352c8e01bb023cf7d5f724751ddc6af695715e97d74065c2f0ae5d7713b@[::]:30301" (invalid IP (multicast/unspecified))
+Fatal: Error starting protocol stack: bad bootstrap/fallback node "enode://a5791501ea72489d31f53bcce00a7f5ba18bd5540977cd3664e803d1e68cbba7b3608352c8e01bb023cf7d5f724751ddc6af695715e97d74065c2f0ae5d7713b@[::]:30301" (invalid IP (multicast/unspecified))
+Fatal: Failed to unlock account 0xbde357122f5769c18e6f52ae22702bb4c38dbfbc (no key for given address or file)
+Fatal: Failed to unlock account 0xbde357122f5769c18e6f52ae22702bb4c38dbfbc (key content mismatch: have account ca843569e3427144cead5e4d5999a3d0ccf92b8e, want bde357122f5769c18e6f52ae22702bb4c38dbfbc)
+Fatal: Failed to unlock account 0 (key content mismatch: have account ed9d02e382b34818e88b88a309c7fe71e65f419d, want c9dffee49cbf0dc38eedd9731985eca2d71b74be)
+Fatal: Failed to unlock account 0 (key content mismatch: have account ed9d02e382b34818e88b88a309c7fe71e65f419d, want c9dffee49cbf0dc38eedd9731985eca2d71b74be)
+Fatal: Failed to unlock account 0xbde357122f5769c18e6f52ae22702bb4c38dbfbc (key content mismatch: have account ca843569e3427144cead5e4d5999a3d0ccf92b8e, want bde357122f5769c18e6f52ae22702bb4c38dbfbc)
+Fatal: Failed to unlock account 0 (key content mismatch: have account ed9d02e382b34818e88b88a309c7fe71e65f419d, want c9dffee49cbf0dc38eedd9731985eca2d71b74be)
+Fatal: listen udp 127.0.0.1:33445: bind: address already in use
+Fatal: listen udp 127.0.0.1:33445: bind: address already in use
+Unlocking keys/tm1.key
+Unlocking keys/tm1a.key
+Fatal: listen udp 127.0.0.1:33445: bind: address already in use
+Fatal: Failed to unlock account 0xbde357122f5769c18e6f52ae22702bb4c38dbfbc (no key for given address or file)
+Unlocking keys/tm1.key
+Unlocking keys/tm1a.key
+Unlocking keys/tm2.key
+Unlocking keys/tm2a.key
+Fatal: listen udp 127.0.0.1:33445: bind: address already in use
+Unlocking keys/tm1.key
+Unlocking keys/tm1a.key
+Fatal: listen udp 127.0.0.1:33445: bind: address already in use
+Unlocking keys/tm2.key
+Unlocking keys/tm2a.key
+Fatal: Could not open database: resource temporarily unavailable
+Fatal: Could not open database: resource temporarily unavailable
+Unlocking keys/tm1.key
+Unlocking keys/tm3.key
+Unlocking keys/tm2.key
+Unlocking keys/tm1.key
+Unlocking keys/tm3.key
+Unlocking keys/tm2.key
+Unlocking keys/tm1.key
+Unlocking keys/tm2.key
+Unlocking keys/tm3.key
+Unlocking keys/tm1.key
+Unlocking keys/tm3.key
+Unlocking keys/tm2.key
+Fatal: Failed to unlock account 0xc9dffee49cbf0dc38eedd9731985eca2d71b74be (no key for given address or file)
+Fatal: Failed to unlock account 0xc9dffee49cbf0dc38eedd9731985eca2d71b74be (no key for given address or file)
+Fatal: Failed to unlock account 0xc9dffee49cbf0dc38eedd9731985eca2d71b74be (no key for given address or file)
+Fatal: Failed to unlock account 0xc9dffee49cbf0dc38eedd9731985eca2d71b74be (no key for given address or file)
+Fatal: Failed to unlock account 0xc9dffee49cbf0dc38eedd9731985eca2d71b74be (no key for given address or file)

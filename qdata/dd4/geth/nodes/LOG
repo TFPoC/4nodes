@@ -1,0 +1,6 @@
+=============== May 12, 2017 (UTC) ===============
+10:42:03.096052 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:42:03.096959 db@open opening
+10:42:03.102053 version@stat F·[] S·0B[] Sc·[]
+10:42:03.103926 db@janitor F·2 G·0
+10:42:03.104012 db@open done T·7.026103ms

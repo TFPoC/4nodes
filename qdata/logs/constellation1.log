@@ -1,0 +1,3 @@
+nohup: appending output to 'nohup.out'
+2017 May-12 10:41:53815628 [INFO] Constellation initializing using config file tm1.conf
+2017 May-12 10:41:53819230 [INFO] Log level is LevelWarn

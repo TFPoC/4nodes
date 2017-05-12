@@ -1,0 +1,38 @@
+=============== May 12, 2017 (UTC) ===============
+10:41:49.356574 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:41:49.356967 db@open opening
+10:41:49.358619 version@stat F·[] S·0B[] Sc·[]
+10:41:49.359548 db@janitor F·2 G·0
+10:41:49.359611 db@open done T·2.620215ms
+10:41:49.359650 db@close closing
+10:41:49.359694 db@close done T·43.111µs
+=============== May 12, 2017 (UTC) ===============
+10:41:49.360308 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:41:49.360471 version@stat F·[] S·0B[] Sc·[]
+10:41:49.360484 db@open opening
+10:41:49.360523 journal@recovery F·1
+10:41:49.365386 journal@recovery recovering @1
+10:41:49.377414 version@stat F·[] S·0B[] Sc·[]
+10:41:49.378229 db@janitor F·2 G·0
+10:41:49.378260 db@open done T·17.769891ms
+=============== May 12, 2017 (UTC) ===============
+10:42:01.020564 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:42:01.020872 version@stat F·[] S·0B[] Sc·[]
+10:42:01.020886 db@open opening
+10:42:01.020942 journal@recovery F·1
+10:42:01.026675 journal@recovery recovering @2
+10:42:01.028654 memdb@flush created L0@4 N·41 S·4KiB "\x04\x9e\xfa..C/\xc8,v16":"\xfc\xe6\x0f..x\x9bs,v15"
+10:42:01.031563 version@stat F·[1] S·4KiB[4KiB] Sc·[0.25]
+10:42:01.032009 db@janitor F·3 G·0
+10:42:01.032039 db@open done T·11.143467ms
+10:42:01.032358 db@close closing
+10:42:01.032443 db@close done T·83.9µs
+=============== May 12, 2017 (UTC) ===============
+10:42:01.033508 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:42:01.033952 version@stat F·[1] S·4KiB[4KiB] Sc·[0.25]
+10:42:01.033965 db@open opening
+10:42:01.034010 journal@recovery F·1
+10:42:01.059179 journal@recovery recovering @5
+10:42:01.080928 version@stat F·[1] S·4KiB[4KiB] Sc·[0.25]
+10:42:01.081510 db@janitor F·3 G·0
+10:42:01.081558 db@open done T·47.585461ms
